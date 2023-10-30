@@ -1,9 +1,9 @@
 {
     "destinations": [
         {
-            "name": "Taj Mahal",
+            "name": "Agra",
             "category": "Historical",
-            "image": "https://images.pexels.com/photos/5608221/pexels-photo-5608221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0c/de/fc/40.jpg",
             "description": "The Taj Mahal, an iconic ivory-white marble mausoleum, is one of the Seven Wonders of the World. It was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
             "location": "Agra, Uttar Pradesh, India",
             "bestTimeToVisit": "October to March",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "name": "Goa Beaches",
+            "name": "Goa",
             "category": "Beaches",
             "image": "https://images.pexels.com/photos/13208189/pexels-photo-13208189.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "description": "Goa, known for its picturesque beaches, is a popular beach destination in India. Visitors can enjoy golden sands, water sports, vibrant nightlife, and delicious seafood.",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "name": "Kerala Backwaters",
+            "name": "Kerala",
             "category": "Nature",
             "image": "https://images.pexels.com/photos/2780309/pexels-photo-2780309.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "description": "Kerala's backwaters are a network of serene waterways, lagoons, and lakes. Travelers can enjoy houseboat rides, lush green landscapes, and experience the unique coastal lifestyle.",
@@ -128,7 +128,7 @@
         {
             "name": "Rishikesh",
             "category": "Adventure",
-            "image": "https://images.pexels.com/photos/5450672/pexels-photo-5450672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://www.uttarapedia.com/wp-content/uploads/2023/05/Rishikesh.jpg",
             "description": "Rishikesh, situated in the foothills of the Himalayas, is a hub for adventure seekers and spiritual enthusiasts. Known for its yoga and meditation centers, it offers thrilling activities like white-water rafting and trekking.",
             "location": "Uttarakhand, India",
             "bestTimeToVisit": "March to June",
@@ -178,7 +178,7 @@
           {
             "name": "Udaipur",
             "category": "Heritage",
-            "image": "https://images.pexels.com/photos/788943/pexels-photo-788943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://travelindiatravel.in/wp-content/uploads/2022/10/cq5dam.web_.1280.1280.jpg",
             "description": "Udaipur, the 'City of Lakes,' is known for its majestic palaces, serene lakes, and vibrant markets. It offers a glimpse into Rajasthan's royal history and architectural marvels.",
             "location": "Udaipur, Rajasthan, India",
             "bestTimeToVisit": "October to March",
@@ -228,7 +228,7 @@
           {
             "name": "Ajanta and Ellora Caves",
             "category": "Historical",
-            "image": "https://images.pexels.com/photos/1462809/pexels-photo-1462809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://www.savaari.com/blog/wp-content/uploads/2021/06/Ajanta-Ellora-Caves1-architecture.jpg",
             "description": "The Ajanta and Ellora Caves are a UNESCO World Heritage Site, featuring ancient rock-cut caves with exquisite sculptures, paintings, and architecture. These caves showcase the rich cultural and artistic heritage of ancient India.",
             "location": "Aurangabad, Maharashtra, India",
             "bestTimeToVisit": "November to February",
@@ -253,7 +253,7 @@
         {
             "name": "Mumbai",
             "category": "Metropolitan",
-            "image": "https://images.pexels.com/photos/265954/pexels-photo-265954.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://www.mistay.in/travel-blog/content/images/2021/07/Roam-around-top-7-historical-monuments-in-Mumbai-I-MiStay.jpeg",
             "description": "Mumbai, the financial and entertainment capital of India, is a bustling metropolis known for its diverse culture, iconic landmarks, Bollywood film industry, and vibrant nightlife.",
             "location": "Mumbai, Maharashtra, India",
             "bestTimeToVisit": "November to February",
@@ -278,7 +278,7 @@
         {
             "name": "Kolkata",
             "category": "Cultural and Culinary",
-            "image": "https://images.pexels.com/photos/3965543/pexels-photo-3965543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://lp-cms-production.imgix.net/2019-06/80840681.jpg",
             "description": "Kolkata, the cultural capital of India, is known for its rich history, artistic heritage, intellectual pursuits, and delectable cuisine. It's a city of joy with a blend of tradition and modernity.",
             "location": "Kolkata, West Bengal, India",
             "bestTimeToVisit": "October to March",
@@ -303,7 +303,7 @@
         {
             "name": "Puri",
             "category": "Spiritual and Beach",
-            "image": "https://images.pexels.com/photos/1063584/pexels-photo-1063584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2021/08/24122932/Puri.jpg",
             "description": "Puri, located on the Bay of Bengal, is a sacred city for Hindus and a popular beach destination. It is famous for the Jagannath Temple, pristine beaches, and the annual Rath Yatra festival.",
             "location": "Puri, Odisha, India",
             "bestTimeToVisit": "November to February",
@@ -315,20 +315,20 @@
                     "eventName": "Rath Yatra",
                     "date": "June/July",
                     "description": "The grand chariot festival of Lord Jagannath, Balabhadra, and Subhadra, where deities are taken on a procession in elaborately decorated chariots.",
-                    "image": "https://www.tripsavvy.com/thmb/gxb4ReU6uE9EnTNK2JEEwvrrAFQ=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/Puri-0cc539eef1c647f8a5b1b481877f25aa.jpg"
+                    "image": "https://swarajya.gumlet.io/swarajya/2016-07/1e97ec9a-459f-409b-82bd-8cfe0fdf6368/GettyImages-146621470.jpg?w=320&q=75&auto=format,compress&format=webp"
                 },
                 {
                     "eventName": "Konark Dance Festival",
                     "date": "December",
                     "description": "A celebration of classical dance forms against the backdrop of the magnificent Sun Temple, showcasing India's rich cultural heritage.",
-                    "image": "https://odishatourguide.com/wp-content/uploads/2019/08/Konark-Dance-Festival-2021-5.jpg"
+                    "image": "https://www.optionstheedge.com/sites/default/files/field/featured-image/2022/the_ten-headed_ravana.jpg"
                 }
             ]
         },
         {
             "name": "Shimla",
             "category": "Hill Station",
-            "image": "https://images.pexels.com/photos/2232600/pexels-photo-2232600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://www.travelxp.com/pages/wp-content/uploads/2021/07/Things-to-do-in-Shimla.jpg",
             "description": "Shimla, the capital city of Himachal Pradesh, is a charming hill station nestled in the Himalayas. It is known for its scenic beauty, colonial architecture, and pleasant weather, making it a popular destination for nature lovers and adventure enthusiasts.",
             "location": "Shimla, Himachal Pradesh, India",
             "bestTimeToVisit": "March to June and September to November",
@@ -340,20 +340,20 @@
                     "eventName": "Summer Festival",
                     "date": "May/June",
                     "description": "A colorful festival showcasing folk music, dance performances, local handicrafts, and flower exhibitions.",
-                    "image": "https://himachaltourism.gov.in/wp-content/uploads/2018/09/Summer-Festival-Shimla.jpg"
+                    "image": "https://images.tribuneindia.com/cms/gall_content/2019/6/2019_6$largeimg04_Tuesday_2019_071716106.jpg"
                 },
                 {
                     "eventName": "Ice Skating Carnival",
                     "date": "December/January",
                     "description": "One of the oldest ice skating carnivals in Asia, held at the natural ice rink in Shimla.",
-                    "image": "https://i.ytimg.com/vi/31E4eY-1pQc/maxresdefault.jpg"
+                    "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2016/06/ice-skating.jpg"
                 }
             ]
         },
         {
             "name": "Srinagar",
             "category": "Scenic Beauty and Lakes",
-            "image": "https://images.pexels.com/photos/2451474/pexels-photo-2451474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/1200px-Dal_Lake_Hazratbal_Srinagar.jpg",
             "description": "Srinagar, the summer capital of Jammu and Kashmir, is renowned for its breathtaking natural beauty, including Dal Lake, Mughal gardens, and snow-capped mountains. It offers serene houseboat stays and a peaceful atmosphere.",
             "location": "Srinagar, Jammu and Kashmir, India",
             "bestTimeToVisit": "April to October",
@@ -365,20 +365,20 @@
                     "eventName": "Tulip Festival",
                     "date": "April",
                     "description": "A vibrant festival held in Indira Gandhi Memorial Tulip Garden, showcasing a wide variety of tulips in full bloom.",
-                    "image": "https://www.kashmirhills.com/wp-content/uploads/2017/04/tulip-garden-srinagar.jpg"
+                    "image": "https://static.tnn.in/thumb/msid-98584888,thumbsize-164902,width-1280,height-720,resizemode-75/98584888.jpg"
                 },
                 {
                     "eventName": "Shikara Festival",
                     "date": "June",
                     "description": "A celebration of the traditional Shikara boats with cultural events, handicraft displays, and boat races on Dal Lake.",
-                    "image": "https://www.tourmyindia.com/jammu-kashmir/uploads/2016/08/Srinagar-Shikara-Festival.jpg"
+                    "image": "https://fivecolorsoftravel.com/wp-content/uploads/2023/06/kashmir-shikara-mahotsav.jpg"
                 }
             ]
         },
         {
             "name": "Munnar",
             "category": "Hill Station and Tea Gardens",
-            "image": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://indiano.travel/wp-content/uploads/2022/05/Tea-plantations-and-Muthirappuzhayar-River-in-hills-near-Munnar-Kerala.jpg",
             "description": "Munnar, located in the Western Ghats of Kerala, is a picturesque hill station known for its lush tea gardens, misty mountains, and serene atmosphere. It's a paradise for nature lovers and adventure seekers.",
             "location": "Munnar, Kerala, India",
             "bestTimeToVisit": "September to March",
@@ -390,20 +390,20 @@
                     "eventName": "Neelakurinji Bloom",
                     "date": "Once in 12 years (next in 2030)",
                     "description": "A rare natural phenomenon where the Neelakurinji flowers bloom, covering the hills in vibrant shades of blue and purple.",
-                    "image": "https://www.keralatourism.org/images/neelakurinji-kerala-tourism.jpg"
+                    "image": "https://ihplb.b-cdn.net/wp-content/uploads/2018/01/Neelakurinji-Blooms-in-2018.jpg"
                 },
                 {
                     "eventName": "Munnar Flower Show",
                     "date": "April",
                     "description": "A colorful event showcasing a variety of flowers, including rare orchids and blooming hybrids, attracting nature enthusiasts and gardeners.",
-                    "image": "https://www.keralatourism.org/images/flower-show-munnar.jpg"
+                    "image": "https://munnartourism.co.in/images/places-to-visit/headers/floriculture-centre-munnar-tourism-entry-fee-timings-holidays-reviews-header.jpg"
                 }
             ]
         },
         {
             "name": "Chennai",
             "category": "Metropolitan and Cultural Hub",
-            "image": "https://images.pexels.com/photos/259187/pexels-photo-259187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://media.licdn.com/dms/image/C4E12AQH1tb_DfCE-cg/article-cover_image-shrink_720_1280/0/1520186693644?e=2147483647&v=beta&t=FD5UeF1qjPOGgtmjlD5rwd1Wjxvfi_b1cij_3cAB04U",
             "description": "Chennai, the capital city of Tamil Nadu, is a bustling metropolis known for its rich heritage, vibrant arts scene, classical music and dance, and delectable cuisine. It's a blend of tradition and modernity.",
             "location": "Chennai, Tamil Nadu, India",
             "bestTimeToVisit": "November to February",
@@ -415,13 +415,39 @@
                     "eventName": "Chennai Music Season",
                     "date": "December to January",
                     "description": "A month-long festival featuring classical music and dance concerts, attracting renowned artists and enthusiasts from around the world.",
-                    "image": "https://tamilnadu-favtourism.blogspot.com/2019/01/music-season-chennai-2019-20.html"
+                    "image": "https://assets.cntraveller.in/photos/60ba06fcce82080a5bb7333c/master/pass/Lead-Getty.jpg"
                 },
                 {
                     "eventName": "Pongal Festival",
                     "date": "January",
                     "description": "The harvest festival of Tamil Nadu celebrated with traditional rituals, cooking of Pongal dish, and cultural events.",
-                    "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/11/Pongal-festival-Chennai.jpg"
+                    "image": "https://c1.staticflickr.com/1/413/32301205565_b30d36e165_b.jpg"
+                }
+            ]
+        }
+        ,
+        {    
+        "name": "Amritsar",
+            "category": "Historical",
+            "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20200819131211/iStock-535570117-scaled.jpg",
+            "description": "The Taj Mahal, an iconic ivory-white marble mausoleum, is one of the Seven Wonders of the World. It was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+            "location": "Agra, Uttar Pradesh, India",
+            "bestTimeToVisit": "October to March",
+            "popularActivities": ["Visiting the Taj Mahal", "Exploring Agra Fort", "Shopping for local handicrafts"],
+            "nearbyAttractions": ["Fatehpur Sikri", "Mehtab Bagh", "Itimad-ud-Daulah"],
+            "travelTips": ["Arrive early to avoid crowds.", "Respect local customs.", "Try Mughlai cuisine."],
+            "happeningEvents": [
+                {
+                    "eventName": "Taj Mahotsav",
+                    "date": "February",
+                    "description": "A 10-day cultural festival showcasing arts, crafts, music, dance, and cuisine.",
+                    "image": "https://www.tourmyindia.com/states/uttarpradesh/images/taj-mahotsav.jpg"
+                },
+                {
+                    "eventName": "Diwali Celebrations",
+                    "date": "October/November",
+                    "description": "Diwali, the Festival of Lights, is celebrated with fireworks and cultural performances.",
+                    "image": "https://resize.indiatvnews.com/en/resize/oldbucket/730_-/mainnational/IndiaTv7e48b1_Taj.jpg"
                 }
             ]
         }
