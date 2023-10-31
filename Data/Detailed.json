@@ -78,7 +78,7 @@
         {
             "name": "Varanasi",
             "category": "Spiritual",
-            "image": "https://images.pexels.com/photos/8112531/pexels-photo-8112531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "image": "https://wallpapercave.com/wp/wp6612913.jpg",
             "description": "Varanasi, one of the oldest cities in the world, is a spiritual hub in India. It is famous for its ghats on the Ganges River, religious rituals, temples, and vibrant cultural heritage.",
             "location": "Varanasi, Uttar Pradesh, India",
             "bestTimeToVisit": "October to March",
@@ -140,13 +140,13 @@
                 "eventName": "International Yoga Festival",
                 "date": "March",
                 "description": "A week-long festival attracting yogis and spiritual leaders from around the world.",
-                "image": "https://www.internationalyogafestival.org/assets/images/international-yoga-festival-rishikesh.jpg"
+                "image": "https://rishikesh.app/_vercel/image?url=/te/events/international-yoga-fest.jpg&w=1280&q=100"
               },
               {
                 "eventName": "Ganga Dussehra",
                 "date": "May/June",
                 "description": "A festival celebrating the descent of the Ganges to Earth, marked by religious ceremonies and rituals.",
-                "image": "https://www.tourmyindia.com/states/uttarpradesh/images/ganga-dussehra-1.jpg"
+                "image": "https://blogbox.indianeagle.com/wp-content/uploads/2013/06/ganga-dussehra-festival.jpg"
               }
             ]
           },
@@ -162,16 +162,16 @@
             "travelTips": ["Obtain necessary permits for island visits.", "Explore local seafood cuisine.", "Enjoy water activities."],
             "happeningEvents": [
               {
-                "eventName": "Island Tourism Festival",
-                "date": "December/January",
-                "description": "A celebration showcasing the cultural diversity of the Andaman and Nicobar Islands.",
-                "image": "https://www.andamantourism.gov.in/images/slider_images/itf-pic2.jpg"
+                "eventName": "kite flying competition",
+                "date": "January",
+                "description": "Kite flying competitions are part of the Island Tourism Festival in the Andaman and Nicobar Islands. The festival is organized by the Government of India and runs for 15 days. The main event is in Port Blair, but there are smaller events across the islands.",
+                "image": "https://www.tourmyindia.com/socialimg/kite-festival-rajasthan.jpg"
               },
               {
                 "eventName": "Subhash Mela",
                 "date": "January",
                 "description": "A festival commemorating the birth anniversary of Netaji Subhas Chandra Bose, with cultural programs and exhibitions.",
-                "image": "https://www.andamantourism.gov.in/images/slider_images/subhas-mela-pic1.jpg"
+                "image": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/symphony-summer-sand-beach-resort-and-spa/the_ferris_wheel_and_other_stalls_and_decorations_at_a_fete_ehruw1"
               }
             ]
           },
@@ -184,19 +184,19 @@
             "bestTimeToVisit": "October to March",
             "popularActivities": ["Boat ride on Lake Pichola", "Visit to City Palace", "Exploring Jag Mandir"],
             "nearbyAttractions": ["Jaisalmer", "Mount Abu", "Chittorgarh"],
-            "travelTips": ["Attend a traditional Rajasthani dance performance.", "Shop for local handicrafts.", "Experience the royal hospitality."],
+            "travelTips": ["Best Time to Visit Udaipur is during the winter months (October to March) when the weather is pleasant and suitable for exploring the city's attractions."],
             "happeningEvents": [
               {
                 "eventName": "Mewar Festival",
                 "date": "March/April",
                 "description": "A festival celebrating the arrival of spring with cultural events, processions, and performances.",
-                "image": "https://www.rajasthantourplanner.com/blog/wp-content/uploads/2016/03/Mewar-Festival-Udaipur-Rajasthan.jpg"
+                "image": "https://www.india-tours.com/blog/wp-content/uploads/2021/05/mewar-festival.jpg"
               },
               {
-                "eventName": "Diwali Celebrations",
+                "eventName": "Udaipur Lantern Festival (During Diwali)",
                 "date": "October/November",
                 "description": "Diwali festivities with illuminated palaces, cultural performances, and fireworks.",
-                "image": "https://www.holidify.com/images/cmsuploads/compressed/Udaipur_City_Palace_Flickr_Tyler_Dunlavy_20191118192934.jpg"
+                "image": "https://www.holidify.com/images/cmsuploads/compressed/Gcl6vzW_20171005134130.jpg"
               }
             ]
           },
@@ -215,13 +215,13 @@
                 "eventName": "Darjeeling Carnival",
                 "date": "December",
                 "description": "A winter carnival featuring cultural events, parades, and local performances.",
-                "image": "https://www.india.com/wp-content/uploads/2016/12/Darjeeling-Carnival.jpg"
+                "image": "https://www.holidaybees.com/blog/wp-content/uploads/2022/02/festivals-of-darjeeling.jpg"
               },
               {
                 "eventName": "Losar Festival",
                 "date": "February",
                 "description": "Tibetan New Year celebrations with traditional dances, rituals, and cultural programs.",
-                "image": "https://www.nativeplanet.com/img/2020/02/darjeeling-1582531461.jpg"
+                "image": "https://static.toiimg.com/thumb/61719754.cms?resizemode=75&width=1200&height=900"
               }
             ]
           },
@@ -229,7 +229,7 @@
             "name": "Ajanta and Ellora Caves",
             "category": "Historical",
             "image": "https://www.savaari.com/blog/wp-content/uploads/2021/06/Ajanta-Ellora-Caves1-architecture.jpg",
-            "description": "The Ajanta and Ellora Caves are a UNESCO World Heritage Site, featuring ancient rock-cut caves with exquisite sculptures, paintings, and architecture. These caves showcase the rich cultural and artistic heritage of ancient India.",
+            "description": "The Ajanta and Ellora Caves are a UNESCO World Heritage Site, featuring ancient rock-cut caves with exquisite sculptures, paintings, and architecture.",
             "location": "Aurangabad, Maharashtra, India",
             "bestTimeToVisit": "November to February",
             "popularActivities": ["Exploring Ajanta Caves", "Visiting Ellora Caves", "Learning about ancient Indian art and history"],
@@ -240,13 +240,13 @@
                     "eventName": "Ellora Ajanta Festival",
                     "date": "November",
                     "description": "A cultural festival featuring classical music and dance performances, celebrating the artistic heritage of the region.",
-                    "image": "https://www.maharashtratourism.gov.in/sites/default/files/2021-08/Ellora_Ajanta_Festival.jpg"
+                    "image": "https://www.jagranimages.com/images/newimg/11022023/11_02_2023-ellora_ajanta_festival_2023_23325770.webp"
                 },
                 {
-                    "eventName": "Ganesh Chaturthi",
+                    "eventName": "Daulatabad",
                     "date": "August/September",
-                    "description": "The vibrant and grand celebration of Lord Ganesha's festival with processions, music, and decorations.",
-                    "image": "https://images.indianexpress.com/2021/09/ganesh-chaturthi-2021.jpg"
+                    "description": "Formerly known as Deogiri, Daulatabad was the capital of Tughlaq dynasty under the rule of Muhammad Bin Tughluq. ",
+                    "image": "https://vygrnews.com/uploader/IMG_0326%202_1688035528.jpg"
                 }
             ]
         },
@@ -265,13 +265,13 @@
                     "eventName": "Kala Ghoda Arts Festival",
                     "date": "February",
                     "description": "A nine-day-long celebration of arts, crafts, music, dance, and theatre, transforming the Kala Ghoda area into a cultural hub.",
-                    "image": "https://www.kalaghodaassociation.com/images/overview/kala_ghoda_festival_og.jpg"
+                    "image": "https://www.eventfaqs.com/Uploads2018/00Uploads%202020/February/27Feb/c0d9c24d-0b56-46d4-873b-e043baf555f6.jpg"
                 },
                 {
                     "eventName": "Ganesh Visarjan",
                     "date": "August/September",
                     "description": "The grand procession and immersion of Lord Ganesha idols in the Arabian Sea, marking the end of Ganesh Chaturthi festival.",
-                    "image": "https://static.toiimg.com/photo/msid-70507601/70507601.jpg"
+                    "image": "https://static.toiimg.com/photo/msid-94088082/94088082.jpg?pl=76238"
                 }
             ]
         },
@@ -296,7 +296,7 @@
                     "eventName": "Kolkata International Film Festival",
                     "date": "November",
                     "description": "A prestigious film festival showcasing acclaimed movies and hosting renowned filmmakers from across the globe.",
-                    "image": "https://1.bp.blogspot.com/-BvIaYpBKw0Y/Xc6mST_g7vI/AAAAAAAABE0/D5bJ50KHq_AgYZ3GSYcr4qM2z6_ZTnZrwCEwYBhgL/s1600/Kolkata%2BInternational%2BFilm%2BFestival.jpg"
+                    "image": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/10/29/Pictures/india-entertainment-cinema-festival_0cb7a5ae-19e6-11eb-aaf6-cc648d414a4d.jpg"
                 }
             ]
         },
@@ -428,26 +428,26 @@
         ,
         {    
         "name": "Amritsar",
-            "category": "Historical",
+            "category": "Spiritual",
             "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20200819131211/iStock-535570117-scaled.jpg",
-            "description": "The Taj Mahal, an iconic ivory-white marble mausoleum, is one of the Seven Wonders of the World. It was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
-            "location": "Agra, Uttar Pradesh, India",
+            "description": "Amritsar historically also known as Rāmdāspur and colloquially as Ambarsar, is the second-largest city in the Indian state of Punjab",
+            "location": "Amritsar, Punjab, India",
             "bestTimeToVisit": "October to March",
-            "popularActivities": ["Visiting the Taj Mahal", "Exploring Agra Fort", "Shopping for local handicrafts"],
-            "nearbyAttractions": ["Fatehpur Sikri", "Mehtab Bagh", "Itimad-ud-Daulah"],
+            "popularActivities": ["Visiting the Golden Temple  ", "Wagah Border Ceremony", "Jallianwala Bagh"],
+            "nearbyAttractions": ["Partition Museum, Amritsar", "Mehtab Bagh", "Pul Kanjri"],
             "travelTips": ["Arrive early to avoid crowds.", "Respect local customs.", "Try Mughlai cuisine."],
             "happeningEvents": [
                 {
-                    "eventName": "Taj Mahotsav",
-                    "date": "February",
-                    "description": "A 10-day cultural festival showcasing arts, crafts, music, dance, and cuisine.",
-                    "image": "https://www.tourmyindia.com/states/uttarpradesh/images/taj-mahotsav.jpg"
+                    "eventName": "Hola Mohalla",
+                    "date": "March",
+                    "description": "Hola Mohalla is the continuation of the spring festival of Holi. The festival was established by the tenth Sikh Guru, Guru Gobind Singh. ",
+                    "image": "https://c8.alamy.com/comp/C18JWM/sikhs-gather-in-anandpur-sahib-india-during-the-celebration-of-hola-C18JWM.jpg"
                 },
                 {
-                    "eventName": "Diwali Celebrations",
-                    "date": "October/November",
-                    "description": "Diwali, the Festival of Lights, is celebrated with fireworks and cultural performances.",
-                    "image": "https://resize.indiatvnews.com/en/resize/oldbucket/730_-/mainnational/IndiaTv7e48b1_Taj.jpg"
+                    "eventName": "Kila Raipur Sports Festival",
+                    "date": "February",
+                    "description": "The Kila Raipur Sports Festival is a three-day rural sports festival that takes place in Kila Raipur, Punjab, India. It's also known as the Rural Olympics.",
+                    "image": "https://thebridge.in/wp-content/uploads/2021/02/Qila-Raipur-Festival-Indias-Rural-Olympics-Source-Amazing-Indian-Blog.jpg"
                 }
             ]
         }
